@@ -25,9 +25,16 @@ divided into training, developing and testing sets.
 
 ### Chemical Disease Interaction
 
-* [BC5CDR](): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
+* [BC5CDR](https://github.com/cambridgeltl/MTL-Bioinformatics-2016/tree/master/data/BC5CDR-IOB): BC5CDR corpus consists of 1500 PubMed articles with 4409 annotated chemicals, 5818 diseases and 3116 chemical-disease interactions.
 
 * [CDT](): The weakly-labeled corpus used in (Peng et al., 2016) consists of 18,410 abstracts and 33,224 CID relations. The raw data was extracted from curated data in the CTD-Pfizer collaboration with document-level annotations of drug-disease and drug-phenotype interactions.
+
+
+## Relation Extraction
+
+### Chemical-Protein
+
+* [ChemProt](): 
 
 ## Large Scale Pubmed Corpus
 
